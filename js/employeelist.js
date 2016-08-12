@@ -1,3 +1,4 @@
+var serviceURL = "https://digiseg.com.mx/services/";
 
 var employees;
 
