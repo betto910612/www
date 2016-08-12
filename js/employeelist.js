@@ -1,4 +1,3 @@
-var serviceURL = "192.168.100.30/services/";
 
 var employees;
 
