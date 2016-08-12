@@ -5,7 +5,7 @@
        
     </description>
     <author email="betto2211@gmail.com">
-        Teco Team
+    
     </author>
 	
 	<feature name="Camera">
@@ -40,7 +40,7 @@
 	<plugin name="FileTransfer" value="org.apache.cordova.FileTransfer" /> 
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    
 	
     <gap:plugin name="org.apache.cordova.battery-status" />
     <gap:plugin name="org.apache.cordova.camera" />
