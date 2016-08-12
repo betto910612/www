@@ -39,9 +39,7 @@
 	<plugin name="File" value="org.apache.cordova.FileUtils" />
 	<plugin name="FileTransfer" value="org.apache.cordova.FileTransfer" /> 
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    
-	
+   
     <gap:plugin name="org.apache.cordova.battery-status" />
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.media-capture" />
